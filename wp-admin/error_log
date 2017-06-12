@@ -1,0 +1,4 @@
+[09-Jun-2017 18:30:05 UTC] WordPress database error Unknown column 'uralwprs_' in 'field list' for query SELECT uralwprs_
+[09-Jun-2017 18:33:19 UTC] PHP Warning:  sprintf(): Too few arguments in /home/yourallergychefs/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[09-Jun-2017 18:33:19 UTC] PHP Warning:  sprintf(): Too few arguments in /home/yourallergychefs/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[09-Jun-2017 18:33:20 UTC] PHP Warning:  sprintf(): Too few arguments in /home/yourallergychefs/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
