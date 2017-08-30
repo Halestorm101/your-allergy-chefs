@@ -2185,6 +2185,13 @@ Site Footer
 }
 
 
+/* CUSTOM WSI STYLES */
+
+.header-image .site-title > a {
+	    max-width: 640px;
+}
+
+
 /*
 Media Queries
 ----------------------------------------------------------------------------- */
@@ -2333,6 +2340,10 @@ Media Queries
 
 	.footer-widgets-1 {
 		margin: 0;
+	}
+
+	.header-image .title-area {
+			padding: 0 10px;
 	}
 }
 
@@ -2583,4 +2594,5 @@ Media Queries
 	.sidebar .featured-content .entry {
 		text-align: center;
 	}
+
 }
